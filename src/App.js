@@ -96,9 +96,9 @@ const CardWrapper = styled.div`
   height: calc(100vh - 240px);
   margin-top: 10px;
   overflow-y: scroll;
-  ::-webkit-scrollbar {
+  /* ::-webkit-scrollbar {
     width: 12px;
-  }
+  } */
 `;
 
 export default App;
